@@ -11,5 +11,9 @@
   "dependencies": {
     "express": "^4.13.3",
     "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
   }
 }
